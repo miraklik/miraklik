@@ -1,16 +1,22 @@
-## Hi there 👋
+# Karim Karimov
+### Golang Backend Developer | Web3 Developer
 
-<!--
-**miraklik/miraklik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Golang developer with experience, I am fond of web3 development
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**
+- Intermediate: `Golang` `Git`
+- Beginner: `Solidity` `PostgreSQL` `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Featured Projects**
+- [MetaMarket](https://github.com/miraklik/MetaMarket) - web3 marketplace , where people can create their nfts to sell their goods as nfts
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirak&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirak&theme=dark" alt="GitHub Streak" />
+</p>
+
+🤝 **Connect With Me**
+- [GitHub](https://github.com/mirak)
+- [Twitter](https://twitter.com/karmaU367925)
+- [Email](mailto:karmau473@gmail.com)
