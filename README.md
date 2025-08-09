@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karim
 =============================================================================================================================
 
-Golang Backend Developer | Web3 Developer
+Golang Developer | Web3 Developer
 -----------------------------------------
 
 Golang Backend Developer with experience, main language - GO, I am also fond of web3 projects development.
