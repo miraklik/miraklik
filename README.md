@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Golang Developer | Web3 Developer
 -----------------------------------------
 
-Golang Backend Developer with experience, main language - GO, I am also fond of web3 projects development.
+Golang Backend Developer with experience, main language - Golang, I am also fond of web3 projects development.
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [MyProtfolio](http://docs.google.com/document/d/1NXwUM-w1LXOhgGbqgR9ASP6h6OMslz8K-LxjvNpL9ls/edit?usp=sharing)
