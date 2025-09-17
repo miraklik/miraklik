@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karim
 =============================================================================================================================
 
-Golang Developer | Web3 Developer
+Security Researcher | Penetration Tester | Low-Level Specialist
 -----------------------------------------
 
-Golang Backend Developer with experience, main language - Golang, I am also fond of web3 projects development.
+Specialized in network protocol analysis, reverse engineering, and offensive security tooling. Focused on developing advanced methodologies for system analysis and penetration testing.
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [MyProtfolio](http://docs.google.com/document/d/1NXwUM-w1LXOhgGbqgR9ASP6h6OMslz8K-LxjvNpL9ls/edit?usp=sharing)
 * ✉️  You can contact me at [karmau473@gmail.com](mailto:karmau473@gmail.com)
 * 🚀  I'm currently working on [MetaMarket](http://github.com/miraklik/MetaMarket)
-* 🧠  I'm learning Blockchain development
+* 🧠  I'm learning Custom Security Tooling
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
