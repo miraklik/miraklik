@@ -9,7 +9,7 @@ Specialized in network protocol analysis, reverse engineering, and offensive sec
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [MyProtfolio](http://docs.google.com/document/d/1NXwUM-w1LXOhgGbqgR9ASP6h6OMslz8K-LxjvNpL9ls/edit?usp=sharing)
 * ✉️  You can contact me at [karmau473@gmail.com](mailto:karmau473@gmail.com)
-* 🚀  I'm currently working on [MetaMarket](http://github.com/miraklik/MetaMarket)
+* 🚀  I'm currently working on [Clapy.ai](http://github.com/miraklik/clapy-public)
 * 🧠  I'm learning Custom Security Tooling
 * 🤝  I'm open to collaborating on interesting projects
 
